@@ -1,0 +1,27 @@
+{
+    "author": "lmo0731@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mongol-tsag",
+    "pebble": {
+        "displayName": "Mongol Tsag",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "35feee8c-d259-446d-a20a-a33572168601",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
